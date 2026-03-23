@@ -1,22 +1,25 @@
-# Vikas Chaurasiya
-
-CS Student · Full Stack Developer · DSA Enthusiast
-
-I build full-stack web apps using the MERN stack and Java. Currently
-grinding LeetCode (458+ problems, 200-day streak) while learning
-System Design and DevOps fundamentals.
+## Vikas Chaurasiya
+**CS Student | MERN Stack + Java | Aspiring SDE**
 
 ---
 
-**Tech Stack**
-Java · JavaScript · HTML · CSS · React · Node.js · Express.js · MongoDB · Firebase · Git
+### About
+- 🎓 Computer Science student focused on full-stack development and DSA
+- 💻 Building projects with MERN Stack and Java backend
+- 🧠 458+ LeetCode problems solved · 200-day streak
+- 🔭 Currently exploring System Design and Docker & DevOps
+- 📍 Open to SDE internships and full-time opportunities
 
-**Currently Learning**
-System Design · Docker · DevOps
+### Tech Stack
+- **Languages** — Java, JavaScript, HTML, CSS
+- **Frontend** — React
+- **Backend** — Node.js, Express.js
+- **Databases** — MongoDB, Firebase
+- **Tools** — Git, VS Code
 
-**Links**
-[LinkedIn](https://linkedin.com/in/vikas-chaurasiya1) · [LeetCode](https://leetcode.com/u/Vikas__12/) · [GitHub](https://github.com/vikaschaurasiya1)
+### Currently Learning
+- System Design (HLD + LLD)
+- Docker & DevOps basics
 
----
-
-> Always learning. Always building.
+### Connect
+[LinkedIn](https://linkedin.com/in/vikas-chaurasiya1) · [LeetCode](https://leetcode.com/u/Vikas__12/)
