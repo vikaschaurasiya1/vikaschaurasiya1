@@ -1,25 +1,154 @@
-## Vikas Chaurasiya
-**CS Student | MERN Stack + Java | Aspiring SDE**
+<h1 align="center">Hi 👋, I'm Vikas Chaurasiya</h1>
+<h3 align="center">CS Student | Full Stack Developer (MERN + Java) | DSA Enthusiast | 458+ LeetCode | 200-day streak | Aspiring SDE</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikaschaurasiya1&label=Profile%20views&color=0e75b6&style=flat" alt="vikaschaurasiya1" />
+  <img src="https://img.shields.io/github/followers/vikaschaurasiya1?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN+%2B+Java);458%2B+LeetCode+Problems+Solved;200-Day+LeetCode+Streak+🔥;Currently+Learning+System+Design;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### About
-- 🎓 Computer Science student focused on full-stack development and DSA
-- 💻 Building projects with MERN Stack and Java backend
-- 🧠 458+ LeetCode problems solved · 200-day streak
-- 🔭 Currently exploring System Design and Docker & DevOps
-- 📍 Open to SDE internships and full-time opportunities
+## 🙋‍♂️ About Me
 
-### Tech Stack
-- **Languages** — Java, JavaScript, HTML, CSS
-- **Frontend** — React
-- **Backend** — Node.js, Express.js
-- **Databases** — MongoDB, Firebase
-- **Tools** — Git, VS Code
+- 🎓 Computer Science student with a passion for building scalable full-stack applications
+- 🧠 Solved **458+ problems on LeetCode** with a **200-day streak** — grinding DSA daily
+- 💻 Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js) + **Java**
+- 🔭 Currently learning **System Design** and **Docker & DevOps**
+- 🎯 Goal: Land a Software Development Engineer role at a top tech company
+- ⚡ Fun fact: I debug code better with music on 🎵
 
-### Currently Learning
-- System Design (HLD + LLD)
-- Docker & DevOps basics
+---
 
-### Connect
-[LinkedIn](https://linkedin.com/in/vikas-chaurasiya1) · [LeetCode](https://leetcode.com/u/Vikas__12/)
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/vikas-chaurasiya1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Vikas__12/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/vikaschaurasiya1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🚀 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+</p>
+
+### 🔧 Backend & Runtime
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/System%20Design-%230e75b6.svg?style=for-the-badge&logo=blueprint&logoColor=white" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/DevOps-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="DevOps"/>
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Vikas__12?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/Vikas__12?style=for-the-badge" alt="LeetCode Badge"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikaschaurasiya1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaschaurasiya1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaschaurasiya1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikaschaurasiya1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🔥 What I'm Currently Up To
+
+```text
+📚 Studying     System Design — HLD + LLD patterns
+🐳 Learning     Docker, CI/CD pipelines, DevOps basics
+🧠 Grinding     LeetCode daily (Graphs + Advanced DP focus)
+🛠️ Building     Full stack projects with MERN stack
+🎯 Target       SDE role at a top tech company
+```
+
+---
+
+## 💡 DSA Progress
+
+| Category | Problems Solved |
+|----------|----------------|
+| 🟢 Easy | Strong — 88% ready |
+| 🟡 Medium | Developing — 58% ready |
+| 🔴 Hard | In progress — 22% ready |
+| 🔥 Streak | 200 days and counting |
+| 📦 Total | 458+ problems |
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <b>✨ "Code. Learn. Build. Repeat." ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer"/>
+</p>
