@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN+%2B+Java);458%2B+LeetCode+Problems+Solved;200-Day+LeetCode+Streak+🔥;Currently+Learning+System+Design;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN+%2B+Java);458%2B+LeetCode+Problems+Solved;200-Day+LeetCode+Streak+%F0%9F%94%A5;Currently+Learning+System+Design;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -84,46 +84,13 @@
 
 ---
 
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vikas__12?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/Vikas__12?style=for-the-badge" alt="LeetCode Badge"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikaschaurasiya1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaschaurasiya1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaschaurasiya1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikaschaurasiya1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🔥 What I'm Currently Up To
 
 ```text
 📚 Studying     System Design — HLD + LLD patterns
 🐳 Learning     Docker, CI/CD pipelines, DevOps basics
 🧠 Grinding     LeetCode daily (Graphs + Advanced DP focus)
-🛠️ Building     Full stack projects with MERN stack
+🛠️  Building     Full stack projects with MERN stack
 🎯 Target       SDE role at a top tech company
 ```
 
@@ -131,13 +98,13 @@
 
 ## 💡 DSA Progress
 
-| Category | Problems Solved |
-|----------|----------------|
+| Category | Status |
+|----------|--------|
 | 🟢 Easy | Strong — 88% ready |
 | 🟡 Medium | Developing — 58% ready |
 | 🔴 Hard | In progress — 22% ready |
 | 🔥 Streak | 200 days and counting |
-| 📦 Total | 458+ problems |
+| 📦 Total | 458+ problems solved |
 
 ---
 
@@ -147,8 +114,4 @@
 
 <p align="center">
   <b>✨ "Code. Learn. Build. Repeat." ✨</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer"/>
 </p>
