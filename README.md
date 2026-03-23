@@ -89,7 +89,7 @@
 ```text
 📚 Studying     System Design — HLD + LLD patterns
 🐳 Learning     Docker, CI/CD pipelines, DevOps basics
-🧠 Grinding     LeetCode daily (Graphs + Advanced DP focus)
+🧠 Grinding     LeetCode daily 
 🛠️  Building     Full stack projects with MERN stack
 🎯 Target       SDE role at a top tech company
 ```
