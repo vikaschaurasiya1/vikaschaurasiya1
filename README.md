@@ -19,7 +19,7 @@
 - 🎓 Computer Science student with a passion for building scalable full-stack applications
 - 🧠 Solved **458+ problems on LeetCode** with a **200-day streak** — grinding DSA daily
 - 💻 Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js) + **Java**
-- 🔭 Currently learning **System Design** and **Docker & DevOps**
+- 🔭 Currently learning **System Design**
 - 🎯 Goal: Land a Software Development Engineer role at a top tech company
 - ⚡ Fun fact: I debug code better with music on 🎵
 
